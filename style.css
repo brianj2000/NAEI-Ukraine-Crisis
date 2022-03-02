@@ -1,0 +1,113 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600;700;900&display=swap');
+
+body {
+  background-color: #00296B;
+}
+a:link {
+  font-size: 15px;
+  font-family: 'Source Sans Pro', sans-serif;
+  background-color: #FFD500;
+  color: black;
+  padding: 14px 25px;
+  border: 3px solid white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+
+main {
+  width: 1200px;
+  margin: auto;
+}
+
+html {
+  scoll-behavior:smooth;
+}
+
+li {
+  background-color: #FDC500; 
+  width: 1000px;
+  margin: auto;
+  padding: 10px;  
+}
+
+ul {
+  list-style: none;
+  text-align: left;
+}
+header {
+  background-image: url(https://res.cloudinary.com/hannaweinstein/image/upload/v1646081657/istockphoto-1158059333-170667a_jdwhki.jpg);
+  width: 1200px;
+  border: 10px solid #FDC500;
+  padding: 10px;
+  color: white;
+  text-align: center;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+.intro {
+  font-size: 75px;
+}
+h1 {
+  font-size: 150px;
+}
+.introinfo {
+  font-size: 25px;
+  text-align: left;
+  background-color: #003F88;
+  padding: 20px;
+}
+.sidebar {
+  font-size: 16px;
+}
+h2 {
+  font-size: 40px;
+}
+.directions {
+  background-color: #FDC500;
+  width: 1200px;
+  border: 10px solid #FDC500;
+  padding: 10px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+.decision1 {
+  background-color: #003F88;
+  width: 1200px;
+ border: 10px solid #FDC500;
+  padding: 10px;
+  font-family: 'Source Sans Pro', sans-serif;
+  color: white;
+}
+.decision1result {
+   background-color: #FDC500;
+   width: 1200px;
+  border: 10px solid #FDC500;
+  padding: 10px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+.decision2result {
+  background-color: #FDC500;
+  width: 1200px;
+   border: 10px solid #FDC500;
+  padding: 10px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+.decision3result {
+   background-color: #FDC500;
+  width: 1200px;
+   border: 10px solid #FDC500;
+  padding: 10px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+.glossary {
+  background-color: #003F88;
+  width: 1200px; 
+  border: 10px solid #FDC500;
+  padding: 10px;
+  color: black;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+.moreinfo {
+  color: white;
+  font-family: 'Source Sans Pro', sans-serif;
+}
